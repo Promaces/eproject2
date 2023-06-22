@@ -1,0 +1,234 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:'Roboto', Helvetica, Arial, sans-serif;
+}
+
+.top{
+    width: 100%;
+    height: 80px;
+   
+}
+
+.jeik{
+    width: 260px;
+    height: 50px;
+    padding-left: 10px;
+    padding-top: 35px;
+    position: absolute;
+}
+
+.aqui{
+    width: 400px;
+    height: 50px;
+
+    padding-left: 300px;
+    padding-top: 30px;
+    position: absolute;
+    
+}
+
+a{
+    text-decoration: none;
+}
+.aqui li{
+    display: inline-block;
+    
+}
+
+.white{
+    width: 100%;
+    height: 30px;
+    background-color: blue;
+    
+}
+.search{
+    padding-left: 1100px;
+    color: white;
+    padding-top: 5px;
+}
+
+.shark{
+    width: 100%;
+    height: 120px;
+}
+
+.fish{
+    width: 240px;
+    height: 90px;
+    padding-left: 80px;
+    position: absolute;
+}
+
+.visit{
+    width: 1000px;
+    height: 70px;
+    position: relative;
+    display: inline-block;
+    margin-left: 350px;
+    margin-top: 30px;
+    font-weight: 700;
+    font-size: 16px;
+}
+.visit ul li{
+    display: inline-block;
+    
+}
+
+.vide{
+    width: 100%;
+    height: 850px;
+}
+
+.welcome{
+    font-size: 20px;
+    padding-left: 60px;
+}
+
+.blue{
+    color: blue;
+}
+
+.red{
+    color: red;
+}
+
+.black{
+    color: black;
+}
+
+.find{
+    width: 180px;
+    height: 35px;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: blue;
+    padding: 5px;
+    
+}
+
+.find{
+    color: aliceblue;
+    font-size: 15px;
+}
+
+.events{
+  height: 400px;
+  width: 100%;
+  background-color: rgb(242, 242, 247);
+}
+
+.up{
+color: blue;
+
+}
+
+.up h1{
+    position: relative;
+margin-left: 500px;
+padding-top: 50px;
+}
+
+.no{
+font-size: 20px;
+position: absolute;
+margin-top: 100px;
+}
+
+.lou{
+    width: 130px;
+    height: 35px;
+    background-color: blue;
+    outline: 1px solid blue;
+    padding: 5px;
+    position: relative;
+margin-left: 560px;
+padding-top: 10px;
+margin-top: 190px;
+}
+
+
+.lik a{
+    color: white;
+    font-weight: bolder;
+    
+}
+
+.empty{
+    width: 100%;
+    height: 130px;
+}
+
+.always{
+    width: 100%;
+    height: 200px;
+    background-color: blue;
+    padding: 70px;
+}
+
+.always h2{
+    color: white;
+}
+
+.always p{
+    color: white;
+    font-size: 20px;
+    
+}
+
+.always input{
+    width: 340px;
+    height: 45px;
+}
+
+.sub{
+    color: white;
+    background-color: black;
+    width: 130px;
+    height: 49px;
+    position: relative;
+    right: -343px;
+    top: -49px;
+}
+
+.sub p{
+padding-top: 10px;
+padding-left: 15px;
+}
+
+.stay{
+    background-color: blue;
+    width: 200px;
+    height: 49px;
+    color: rgb(15, 0, 0); 
+    position: relative;
+    top: -268px;
+    left: 850px;
+}
+
+.close{
+    width: 100%;
+    height: 200px;
+
+}
+
+.deco{
+    width: 400px;
+    height: 200px;
+}
+
+.close li{
+    display: inline-block;
+}
+
+.deco img{
+    position: relative;
+    top: 50px;
+    left: 120px;
+}
+
+.loca{
+    width: 100%;
+    height: 25 0px;
+    background-color: black;
+}
